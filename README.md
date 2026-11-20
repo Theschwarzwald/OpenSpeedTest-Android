@@ -2,7 +2,7 @@
 
 A small Kotlin / Jetpack Compose app that runs your self-hosted OpenSpeedTest server.
 
-> **Heads-up: this app was vibe coded.** The creator built it with an AI assistant and has
+> **Heads-up: this app was fully vibe coded.** The creator made it entirely with an AI assistant and has
 > only minimal programming knowledge. It works for the creator, but the code hasn't been
 > professionally reviewed and may have rough edges. Use it at your own risk. Issues and
 > pull requests are welcome, but the creator may not be able to fix things quickly (or at all).
@@ -52,7 +52,12 @@ the app's WebView to see any page errors.
 - OLED is auto-detected (best guess). Override it at the bottom of the Servers sidebar: Auto / On / Off.
 
 ## Download
-A prebuilt debug APK is attached to the [latest release](../../releases/latest).
+**[⬇ Download OpenSpeedTest.apk](https://github.com/Theschwarzwald/OpenSpeedTest-Android/releases/latest/download/OpenSpeedTest.apk)** (about 10 MB, Android 8.0 or newer)
+
+Or see all versions on the [Releases page](https://github.com/Theschwarzwald/OpenSpeedTest-Android/releases).
+
+To install it, open the downloaded file on your phone. If Android asks, allow your browser or
+file manager to "install unknown apps". This is a debug build, so Play Protect may show a warning.
 
 ## License
 This app is open source under the [MIT License](LICENSE). You're free to use, copy, modify and
