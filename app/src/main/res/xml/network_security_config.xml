@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+            <!-- also trust CAs you installed yourself on the phone -->
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

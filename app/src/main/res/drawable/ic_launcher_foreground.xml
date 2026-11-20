@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo shrunk into the adaptive-icon safe zone so launchers don't clip it. -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ost_logo"
+    android:inset="22%" />
