@@ -2,10 +2,10 @@
 
 A small Kotlin / Jetpack Compose app that runs your self-hosted OpenSpeedTest server.
 
-> **Heads-up: this app was vibe coded.** I built it with an AI assistant and have only
-> minimal programming knowledge myself. It works for me, but the code hasn't been
+> **Heads-up: this app was vibe coded.** The creator built it with an AI assistant and has
+> only minimal programming knowledge. It works for the creator, but the code hasn't been
 > professionally reviewed and may have rough edges. Use it at your own risk. Issues and
-> pull requests are welcome, but I may not be able to fix things quickly (or at all).
+> pull requests are welcome, but the creator may not be able to fix things quickly (or at all).
 
 ## Open & run
 1. Android Studio → File → Open → pick this `OpenSpeedTestApp` folder.
