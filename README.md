@@ -53,3 +53,10 @@ the app's WebView to see any page errors.
 
 ## Download
 A prebuilt debug APK is attached to the [latest release](../../releases/latest).
+
+## License
+This app is open source under the [MIT License](LICENSE). You're free to use, copy, modify and
+share it, as long as the license notice stays with it.
+
+This is an unofficial app and isn't affiliated with OpenSpeedTest. The OpenSpeedTest name and
+logo belong to their respective owners.
